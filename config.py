@@ -1,0 +1,3 @@
+MIN_DISCOUNT = 30
+MAX_PRICE = 500
+CATEGORY = "Informática"
